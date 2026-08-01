@@ -1,0 +1,15 @@
+variable,valor
+anio,2021
+total_eventos,7936207
+eventos_con_energia,7936207
+eventos_sin_energia,0
+porcentaje_con_energia,100.0
+porcentaje_sin_energia,0.0
+fecha_inicio,2021-01-01 00:00:05.381807
+fecha_fin,2021-12-31 23:59:48.972320
+lat_min,-19.0
+lat_max,1.0
+lon_min,-82.0
+lon_max,-68.0
+residual_promedio_km,12.026497305324803
+nstations_promedio,7.239471072264118

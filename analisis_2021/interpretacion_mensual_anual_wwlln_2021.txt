@@ -1,0 +1,19 @@
+
+ANALISIS MENSUAL Y ANUAL WWLLN - PERU 2021
+
+Se analizaron 7,936,207 eventos WWLLN dentro del dominio de Peru
+para el anio 2021. El rango temporal cubre desde 2021-01-01 00:00:05.381807
+hasta 2021-12-31 23:59:48.972320.
+
+Del total anual, 7,936,207 eventos presentan informacion de
+energia, lo que equivale al 100.00%.
+Por otro lado, 0 eventos no presentan informacion de
+energia, equivalente al 0.00%.
+
+El mes con mayor actividad electrica fue Diciembre, con
+1,403,878 eventos, equivalente al
+17.69% del total anual.
+
+El mes con menor actividad electrica fue Julio, con
+54,793 eventos, equivalente al
+0.69% del total anual.

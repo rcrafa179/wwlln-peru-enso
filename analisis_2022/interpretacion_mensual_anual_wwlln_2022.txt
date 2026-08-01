@@ -1,0 +1,19 @@
+
+ANALISIS MENSUAL Y ANUAL WWLLN - PERU 2022
+
+Se analizaron 9,455,068 eventos WWLLN dentro del dominio de Peru
+para el anio 2022. El rango temporal cubre desde 2022-01-01 00:00:02.283690
+hasta 2022-12-31 23:59:36.946739.
+
+Del total anual, 9,455,068 eventos presentan informacion de
+energia, lo que equivale al 100.00%.
+Por otro lado, 0 eventos no presentan informacion de
+energia, equivalente al 0.00%.
+
+El mes con mayor actividad electrica fue Diciembre, con
+1,526,358 eventos, equivalente al
+16.14% del total anual.
+
+El mes con menor actividad electrica fue Junio, con
+86,407 eventos, equivalente al
+0.91% del total anual.

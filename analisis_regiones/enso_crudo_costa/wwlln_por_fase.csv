@@ -1,0 +1,4 @@
+fase_enso,n_meses,rayos_medios,anomalia_media,anomalia_pct_media,z_medio,z_log_medio,indice_medio
+El Nino,16,2397.131,1153.702,44.662,0.325,0.468,1.707
+La Nina,12,261.758,-580.57,-19.633,0.036,0.063,-1.275
+Neutral,32,255.409,-359.138,-14.984,-0.176,-0.258,-0.432

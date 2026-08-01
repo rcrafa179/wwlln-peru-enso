@@ -1,0 +1,15 @@
+variable,valor
+anio,2023
+total_eventos,8738936
+eventos_con_energia,8738936
+eventos_sin_energia,0
+porcentaje_con_energia,100.0
+porcentaje_sin_energia,0.0
+fecha_inicio,2023-01-01 00:00:02.505882
+fecha_fin,2023-12-31 23:59:55.586890
+lat_min,-19.0
+lat_max,1.0
+lon_min,-82.0
+lon_max,-68.0
+residual_promedio_km,12.180968186516067
+nstations_promedio,7.4144080011571205

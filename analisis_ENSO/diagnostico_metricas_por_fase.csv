@@ -1,0 +1,4 @@
+fase_enso,n_meses,anom_pct,z_original,z_leave_one_out,z_log
+La Nina,24,2.996,0.065,0.082,0.049
+Neutral,24,-5.625,-0.121,-0.152,-0.12
+El Nino,12,5.275,0.112,0.14,0.143

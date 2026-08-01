@@ -1,0 +1,15 @@
+variable,valor
+anio,2022
+total_eventos,9455068
+eventos_con_energia,9455068
+eventos_sin_energia,0
+porcentaje_con_energia,100.0
+porcentaje_sin_energia,0.0
+fecha_inicio,2022-01-01 00:00:02.283690
+fecha_fin,2022-12-31 23:59:36.946739
+lat_min,-19.0
+lat_max,1.0
+lon_min,-82.0
+lon_max,-68.0
+residual_promedio_km,12.223369742026161
+nstations_promedio,7.405622889227238

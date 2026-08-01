@@ -1,0 +1,7 @@
+temporada,fase_enso,n_meses,z_medio,z_log_medio,anomalia_pct_media
+lluviosa,El Nino,11,0.054,0.033,0.936
+lluviosa,La Nina,8,0.197,0.19,3.688
+lluviosa,Neutral,16,-0.136,-0.118,-2.481
+seca,El Nino,5,-0.184,-0.073,-20.4
+seca,La Nina,4,0.49,0.383,37.725
+seca,Neutral,16,-0.065,-0.073,-3.05

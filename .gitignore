@@ -1,0 +1,24 @@
+# Datos crudos y derivados: demasiado grandes para el repositorio (~67 GB)
+*.parquet
+MATfiles/
+AEfiles/
+Afiles/
+Uncompressed_DATA/
+*.mat
+*.loc
+*.zip
+
+# Cachés de descarga (se regeneran con descargar_oni.py)
+rel_mthsst9120_cache_*.txt
+
+# macOS
+.DS_Store
+._*
+
+# Cuarentena: se conserva en local, no se publica
+_obsoleto_2025/
+
+# Python
+__pycache__/
+*.pyc
+.vscode/

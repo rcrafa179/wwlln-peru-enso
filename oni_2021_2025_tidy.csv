@@ -1,0 +1,61 @@
+year,season,season_idx,oni,phase
+2021,DJF,1,-0.91,La Nina
+2021,JFM,2,-0.79,La Nina
+2021,FMA,3,-0.71,La Nina
+2021,MAM,4,-0.55,La Nina
+2021,AMJ,5,-0.39,Neutral
+2021,MJJ,6,-0.3,Neutral
+2021,JJA,7,-0.35,Neutral
+2021,JAS,8,-0.45,Neutral
+2021,ASO,9,-0.63,La Nina
+2021,SON,10,-0.76,La Nina
+2021,OND,11,-0.91,La Nina
+2021,NDJ,12,-0.87,La Nina
+2022,DJF,1,-0.82,La Nina
+2022,JFM,2,-0.79,La Nina
+2022,FMA,3,-0.86,La Nina
+2022,MAM,4,-0.95,La Nina
+2022,AMJ,5,-0.9,La Nina
+2022,MJJ,6,-0.78,La Nina
+2022,JJA,7,-0.76,La Nina
+2022,JAS,8,-0.87,La Nina
+2022,ASO,9,-0.97,La Nina
+2022,SON,10,-0.94,La Nina
+2022,OND,11,-0.85,La Nina
+2022,NDJ,12,-0.71,La Nina
+2023,DJF,1,-0.54,La Nina
+2023,JFM,2,-0.29,Neutral
+2023,FMA,3,-0.02,Neutral
+2023,MAM,4,0.27,Neutral
+2023,AMJ,5,0.57,El Nino
+2023,MJJ,6,0.84,El Nino
+2023,JJA,7,1.12,El Nino
+2023,JAS,8,1.37,El Nino
+2023,ASO,9,1.6,El Nino
+2023,SON,10,1.83,El Nino
+2023,OND,11,1.99,El Nino
+2023,NDJ,12,2.06,El Nino
+2024,DJF,1,1.92,El Nino
+2024,JFM,2,1.62,El Nino
+2024,FMA,3,1.26,El Nino
+2024,MAM,4,0.82,El Nino
+2024,AMJ,5,0.49,Neutral
+2024,MJJ,6,0.22,Neutral
+2024,JJA,7,0.08,Neutral
+2024,JAS,8,-0.07,Neutral
+2024,ASO,9,-0.17,Neutral
+2024,SON,10,-0.21,Neutral
+2024,OND,11,-0.3,Neutral
+2024,NDJ,12,-0.42,Neutral
+2025,DJF,1,-0.45,Neutral
+2025,JFM,2,-0.24,Neutral
+2025,FMA,3,-0.06,Neutral
+2025,MAM,4,0.02,Neutral
+2025,AMJ,5,-0.02,Neutral
+2025,MJJ,6,-0.04,Neutral
+2025,JJA,7,-0.14,Neutral
+2025,JAS,8,-0.28,Neutral
+2025,ASO,9,-0.4,Neutral
+2025,SON,10,-0.51,La Nina
+2025,OND,11,-0.55,La Nina
+2025,NDJ,12,-0.54,La Nina

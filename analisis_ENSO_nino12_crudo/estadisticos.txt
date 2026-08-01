@@ -1,0 +1,41 @@
+Indice: Nino 1+2
+Serie WWLLN: wwlln_2021_2025_mensual.csv   columna: n_rayos_norm
+Meses usados: 60  (2021-2025)
+
+Correlacion Nino 1+2 vs anomalia de rayos (n=60):
+  Pearson  r = -0.021
+  Spearman r = -0.145
+  Pearson r (z logaritmico) = -0.018
+  n efectivo (Bretherton) = 28.5
+  p aproximado con n efectivo = 0.916
+
+  Solo temporada lluviosa: r = +0.030 (n=35)
+  Solo temporada seca: r = -0.075 (n=25)
+
+Kruskal-Wallis entre fases: H = 7.02, p = 0.030
+  (p nominal; con n efectivo mucho menor que n, tomarlo como orientativo)
+
+Correlaciones con rezago (indice adelanta a los rayos):
+ lag_meses  n  n_efectivo  pearson_r  p_aprox
+         0 60        28.5     -0.021 0.916392
+         1 59        27.7     -0.087 0.660840
+         2 58        27.3     -0.143 0.475566
+         3 57        26.8     -0.192 0.340102
+         4 56        25.7     -0.219 0.285501
+         5 55        25.0     -0.208 0.318682
+         6 54        23.1     -0.182 0.403181
+
+Resumen por fase:
+fase_enso  n_meses  rayos_medios  anomalia_media  anomalia_pct_media  z_medio  z_log_medio  indice_medio
+  El Nino       16    795754.225       13009.061               3.463    0.066        0.061         1.707
+  La Nina       12    878814.083      109621.398              18.442    0.576        0.544        -1.275
+  Neutral       32    559617.672      -47612.555              -8.641   -0.249       -0.235        -0.432
+
+Por temporada:
+temporada fase_enso  n_meses  z_medio  z_log_medio  anomalia_pct_media
+ lluviosa   El Nino       11    0.067        0.049               3.673
+ lluviosa   La Nina        8    0.582        0.579              13.312
+ lluviosa   Neutral       16   -0.337       -0.324              -9.169
+     seca   El Nino        5    0.063        0.087               3.000
+     seca   La Nina        4    0.564        0.474              28.700
+     seca   Neutral       16   -0.161       -0.146              -8.113

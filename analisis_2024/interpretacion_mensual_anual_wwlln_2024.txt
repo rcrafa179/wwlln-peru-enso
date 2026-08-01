@@ -1,0 +1,19 @@
+
+ANALISIS MENSUAL Y ANUAL WWLLN - PERU 2024
+
+Se analizaron 8,820,537 eventos WWLLN dentro del dominio de Peru
+para el anio 2024. El rango temporal cubre desde 2024-01-01 00:00:05.823706
+hasta 2024-12-31 23:59:34.007849999.
+
+Del total anual, 8,820,537 eventos presentan informacion de
+energia, lo que equivale al 100.00%.
+Por otro lado, 0 eventos no presentan informacion de
+energia, equivalente al 0.00%.
+
+El mes con mayor actividad electrica fue Febrero, con
+1,780,972 eventos, equivalente al
+20.19% del total anual.
+
+El mes con menor actividad electrica fue Julio, con
+48,323 eventos, equivalente al
+0.55% del total anual.

@@ -1,0 +1,61 @@
+year,season,season_idx,indice,valor,phase,categoria,oni
+2021,DJF,1,rnino12,-0.87,Neutral,Neutra,-0.87
+2021,JFM,2,rnino12,-0.69,Neutral,Neutra,-0.69
+2021,FMA,3,rnino12,-0.82,Neutral,Neutra,-0.82
+2021,MAM,4,rnino12,-0.91,Neutral,Neutra,-0.91
+2021,AMJ,5,rnino12,-0.8,Neutral,Neutra,-0.8
+2021,MJJ,6,rnino12,-0.37,Neutral,Neutra,-0.37
+2021,JJA,7,rnino12,-0.13,Neutral,Neutra,-0.13
+2021,JAS,8,rnino12,-0.08,Neutral,Neutra,-0.08
+2021,ASO,9,rnino12,-0.25,Neutral,Neutra,-0.25
+2021,SON,10,rnino12,-0.51,Neutral,Neutra,-0.51
+2021,OND,11,rnino12,-1.07,La Nina,Fria debil,-1.07
+2021,NDJ,12,rnino12,-1.25,La Nina,Fria moderada,-1.25
+2022,DJF,1,rnino12,-1.48,La Nina,Fria fuerte,-1.48
+2022,JFM,2,rnino12,-1.14,La Nina,Fria debil,-1.14
+2022,FMA,3,rnino12,-1.29,La Nina,Fria moderada,-1.29
+2022,MAM,4,rnino12,-1.14,La Nina,Fria debil,-1.14
+2022,AMJ,5,rnino12,-1.39,La Nina,Fria moderada,-1.39
+2022,MJJ,6,rnino12,-1.27,La Nina,Fria moderada,-1.27
+2022,JJA,7,rnino12,-1.04,La Nina,Fria debil,-1.04
+2022,JAS,8,rnino12,-0.94,Neutral,Neutra,-0.94
+2022,ASO,9,rnino12,-1.19,La Nina,Fria debil,-1.19
+2022,SON,10,rnino12,-1.51,La Nina,Fria fuerte,-1.51
+2022,OND,11,rnino12,-1.27,La Nina,Fria moderada,-1.27
+2022,NDJ,12,rnino12,-0.83,Neutral,Neutra,-0.83
+2023,DJF,1,rnino12,-0.11,Neutral,Neutra,-0.11
+2023,JFM,2,rnino12,0.52,El Nino,Calida debil,0.52
+2023,FMA,3,rnino12,1.42,El Nino,Calida moderada,1.42
+2023,MAM,4,rnino12,1.79,El Nino,Calida fuerte,1.79
+2023,AMJ,5,rnino12,2.08,El Nino,Calida fuerte,2.08
+2023,MJJ,6,rnino12,2.27,El Nino,Calida fuerte,2.27
+2023,JJA,7,rnino12,2.6,El Nino,Calida fuerte,2.6
+2023,JAS,8,rnino12,2.58,El Nino,Calida fuerte,2.58
+2023,ASO,9,rnino12,2.3,El Nino,Calida fuerte,2.3
+2023,SON,10,rnino12,1.94,El Nino,Calida fuerte,1.94
+2023,OND,11,rnino12,1.41,El Nino,Calida moderada,1.41
+2023,NDJ,12,rnino12,0.77,El Nino,Calida debil,0.77
+2024,DJF,1,rnino12,0.27,Neutral,Neutra,0.27
+2024,JFM,2,rnino12,-0.12,Neutral,Neutra,-0.12
+2024,FMA,3,rnino12,-0.32,Neutral,Neutra,-0.32
+2024,MAM,4,rnino12,-0.86,Neutral,Neutra,-0.86
+2024,AMJ,5,rnino12,-1.13,La Nina,Fria debil,-1.13
+2024,MJJ,6,rnino12,-1.25,La Nina,Fria moderada,-1.25
+2024,JJA,7,rnino12,-1.01,La Nina,Fria debil,-1.01
+2024,JAS,8,rnino12,-0.87,Neutral,Neutra,-0.87
+2024,ASO,9,rnino12,-0.84,Neutral,Neutra,-0.84
+2024,SON,10,rnino12,-0.65,Neutral,Neutra,-0.65
+2024,OND,11,rnino12,-0.5,Neutral,Neutra,-0.5
+2024,NDJ,12,rnino12,-0.43,Neutral,Neutra,-0.43
+2025,DJF,1,rnino12,-0.27,Neutral,Neutra,-0.27
+2025,JFM,2,rnino12,0.19,Neutral,Neutra,0.19
+2025,FMA,3,rnino12,0.54,El Nino,Calida debil,0.54
+2025,MAM,4,rnino12,0.37,Neutral,Neutra,0.37
+2025,AMJ,5,rnino12,0.16,Neutral,Neutra,0.16
+2025,MJJ,6,rnino12,0.13,Neutral,Neutra,0.13
+2025,JJA,7,rnino12,0.16,Neutral,Neutra,0.16
+2025,JAS,8,rnino12,-0.1,Neutral,Neutra,-0.1
+2025,ASO,9,rnino12,-0.28,Neutral,Neutra,-0.28
+2025,SON,10,rnino12,-0.41,Neutral,Neutra,-0.41
+2025,OND,11,rnino12,-0.5,Neutral,Neutra,-0.5
+2025,NDJ,12,rnino12,-0.59,Neutral,Neutra,-0.59

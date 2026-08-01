@@ -1,0 +1,15 @@
+variable,valor
+anio,2024
+total_eventos,8820537
+eventos_con_energia,8820537
+eventos_sin_energia,0
+porcentaje_con_energia,100.0
+porcentaje_sin_energia,0.0
+fecha_inicio,2024-01-01 00:00:05.823706
+fecha_fin,2024-12-31 23:59:34.007849999
+lat_min,-19.0
+lat_max,1.0
+lon_min,-82.0
+lon_max,-68.0
+residual_promedio_km,12.1746097318111
+nstations_promedio,7.440193153772837

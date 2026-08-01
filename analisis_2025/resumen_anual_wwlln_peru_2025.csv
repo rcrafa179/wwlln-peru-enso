@@ -1,0 +1,15 @@
+variable,valor
+anio,2025
+total_eventos,6214356
+eventos_con_energia,6214356
+eventos_sin_energia,0
+porcentaje_con_energia,100.0
+porcentaje_sin_energia,0.0
+fecha_inicio,2025-01-01 00:00:03.294008
+fecha_fin,2025-12-31 23:59:55.472233
+lat_min,-19.0
+lat_max,1.0
+lon_min,-81.9999
+lon_max,-68.0
+residual_promedio_km,11.886736662656599
+nstations_promedio,7.653915385600696
