@@ -308,4 +308,4 @@ eso el promedio de todo el país daba cero.
 4. `python3 limpiar_parquet.py` (edita rutas) → obtén `_limpio.parquet`.
 5. `python3 revisar_WWLL.py` (edita ruta) → confirma rango de fechas completo
    y sin sorpresas en nulos.
-6. Corre `analizar_wwlln.py` / `mapa_densidad_wwlln.py` sobre el `_limpio.parquet`.
+6. Corre `analisis_anual_wwlln.py` / `mapa_densidad_wwlln.py` sobre el `_limpio.parquet`.

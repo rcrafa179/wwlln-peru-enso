@@ -18,6 +18,9 @@ rel_mthsst9120_cache_*.txt
 # Cuarentena: se conserva en local, no se publica
 _obsoleto_2025/
 
+# Documento de postulación: se envía por correo, no se publica en el repo
+SUMMARY_EN.md
+
 # Python
 __pycache__/
 *.pyc
